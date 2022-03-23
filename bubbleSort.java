@@ -3,7 +3,6 @@
  * 1. Compare two items 
  * 2. Swap two items
  * 
- * Start from right, compare two number
  * first round = n-1 
  * second round = n-2 
  * ......
